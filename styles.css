@@ -1,0 +1,14 @@
+/* use at least 5 rules*/
+
+html{
+	font-family: Garamond;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 16;
+}
+
+.border{
+	border-width: 5px ;
+}
