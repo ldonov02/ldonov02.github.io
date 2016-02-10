@@ -1,16 +1,19 @@
-2320 6173 7369 676e 6d65 6e74 2031 0d0a
-0d0a 4e61 6d65 3a20 4c61 7572 6120 446f
-6e6f 7661 6e0d 0a4d 6f64 6966 6965 643a
-2032 2f30 382f 3230 3136 0d0a 0d0a 4173
-7065 6374 7320 6f66 2074 6865 2077 6f72
-6b20 636f 7272 6563 746c 7920 696d 706c
-656d 656e 7465 643a 0d0a 4173 7065 6374
-7320 6f66 2074 6865 2077 6f72 6b20 6e6f
-7420 636f 7272 6563 746c 7920 696d 706c
-656d 656e 7465 643a 0d0a 0d0a 436f 6c6c
-6162 6f72 6174 6564 2077 6974 683a 0d0a
-0d0a 5370 656e 7420 686f 7720 6d61 6e79
-2068 6f75 7273 3f23 0020 006c 0064 006f
-006e 006f 0076 0030 0032 002e 0067 0069
-0074 0068 0075 0062 002e 0069 006f 000d
-000a 00
+# assignment 1
+
+Name: Laura Donovan
+Modified: 2/08/2016
+
+# assignment 1
+
+Name: Laura Donovan
+Modified: 2/09/2016
+
+Aspects of the work correctly implemented:
+Aspects of the work not correctly implemented:
+
+Acknowledgments: I asked Tom Rind for some help on this assignment.
+
+
+
+Hours spent: 5
+Spent how many hours?

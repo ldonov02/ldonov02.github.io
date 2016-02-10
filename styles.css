@@ -1,14 +1,34 @@
-/* use at least 5 rules*/
-
 html{
 	font-family: Garamond;
 }
 
 h2{
-	font-weight: bold;
 	font-size: 16;
 }
 
-.border{
-	border-width: 5px ;
+.subheading{
+	text-decoration: underline;
+	font-size: 14;
+}
+
+#background1{
+	background-color: #99e4ff;
+}
+
+#background2{
+	background-color: #ff99bb;
+	text-align: center;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+#background3{
+	background-color: #ea99ff;
+	text-align: center;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+
+.photo{
+	text-align: right;
 }
